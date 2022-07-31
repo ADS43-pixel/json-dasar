@@ -1,0 +1,24 @@
+[
+    {
+    "nama" : "dea",
+    "level" : 7,
+    "ranked" : "false",
+    "role" : "fighter",
+    "rank" : ["elite", "master"],
+    "lawankuat" : {
+        "hero1" : "moiy",
+        "hero2" : "bumble"
+    }
+},
+{
+    "nama" : "dea",
+    "level" : 7,
+    "ranked" : "false",
+    "role" : "fighter",
+    "rank" : ["elite", "master"],
+    "lawankuat" : {
+        "hero1" : "moiy",
+        "hero2" : "bumble"
+    }
+}
+]
